@@ -2,13 +2,14 @@
 
 ## Exercise I
 
-a)
+a) Linear time because the while loop runs an n number of times? o(n)?
 
 
-b)
+b) We're looping here. 'n' has to be calculated twice so that slows things down? would this be linerithmic O(n log n)?
 
 
-c)
+c) Linear time? O(n) because it's only running once per bunny in the param??
+
 
 ## Exercise II
 
